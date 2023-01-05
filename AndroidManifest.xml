@@ -16,10 +16,10 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.android.gms.measurement.sdk.api" 
-    android:versionCode="1902"
-    android:versionName="19.0.2">
+    android:versionCode="2000"
+    android:versionName="20.0.0">
 
-    <uses-sdk android:minSdkVersion="16" />
+    <uses-sdk android:minSdkVersion="19" />
 
     <!-- Required permission for App measurement to run. -->
     <uses-permission android:name="android.permission.INTERNET" />
